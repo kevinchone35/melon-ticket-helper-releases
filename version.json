@@ -1,9 +1,9 @@
 {
-  "version": "1.3.4",
+  "version": "1.4.0",
   "minSupportedVersion": "1.3.0",
   "mandatory": false,
-  "notes": "引入热更新检查（popup 检查更新）与 v2 跨版本激活；钉死扩展 ID 以保留激活/配置",
-  "crxUrl": "https://github.com/kevinchone35/melon-ticket-helper-releases/releases/download/v1.3.4/melon-ticket-helper.crx",
-  "zipUrl": "https://github.com/kevinchone35/melon-ticket-helper-releases/releases/download/v1.3.4/melon-ticket-helper-1.3.4.zip",
+  "notes": "捡漏模式优化：页面默认选中日期后自动补选首个场次，「进入选座界面」按钮即可直接点击进入选座",
+  "crxUrl": "https://github.com/kevinchone35/melon-ticket-helper-releases/releases/download/v1.4.0/melon-ticket-helper.crx",
+  "zipUrl": "https://github.com/kevinchone35/melon-ticket-helper-releases/releases/download/v1.4.0/melon-ticket-helper-1.4.0.zip",
   "publishedAt": "2026-06-19"
 }

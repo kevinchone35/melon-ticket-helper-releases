@@ -1,9 +1,9 @@
 {
-  "version": "1.4.1",
-  "minSupportedVersion": "1.4.0",
+  "version": "1.5.0",
+  "minSupportedVersion": "1.5.0",
   "mandatory": false,
-  "notes": "修复韩版(ticket.melon.com)自定义扫描顺序填写区域名报「输入格式错误」的问题；修复 F5 等在座位图中重复标注的区域被错误排到扫描末尾的问题。",
-  "crxUrl": "https://github.com/kevinchone35/melon-ticket-helper-releases/releases/download/v1.4.1/melon-ticket-helper.crx",
-  "zipUrl": "https://github.com/kevinchone35/melon-ticket-helper-releases/releases/download/v1.4.1/melon-ticket-helper-1.4.1.zip",
-  "publishedAt": "2026-06-29"
+  "notes": "韩版改用真实点击进入选座，修复「进入选座界面」点击无反应/选座窗口不弹出的问题。本版新增调试(debugger)权限，更新后需在 chrome://extensions 重新启用授权。",
+  "crxUrl": "https://github.com/kevinchone35/melon-ticket-helper-releases/releases/download/v1.5.0/melon-ticket-helper.crx",
+  "zipUrl": "https://github.com/kevinchone35/melon-ticket-helper-releases/releases/download/v1.5.0/melon-ticket-helper-1.5.0.zip",
+  "publishedAt": "2026-06-30"
 }

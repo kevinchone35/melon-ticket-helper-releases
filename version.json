@@ -1,9 +1,9 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "minSupportedVersion": "1.5.0",
   "mandatory": false,
-  "notes": "韩版改用真实点击进入选座，修复「进入选座界面」点击无反应/选座窗口不弹出的问题。本版新增调试(debugger)权限，更新后需在 chrome://extensions 重新启用授权。",
-  "crxUrl": "https://github.com/kevinchone35/melon-ticket-helper-releases/releases/download/v1.5.0/melon-ticket-helper.crx",
-  "zipUrl": "https://github.com/kevinchone35/melon-ticket-helper-releases/releases/download/v1.5.0/melon-ticket-helper-1.5.0.zip",
-  "publishedAt": "2026-06-30"
+  "notes": "验证码弹出即识别，无需点击开始扫描；更多的 OCR 次数。",
+  "crxUrl": "https://github.com/kevinchone35/melon-ticket-helper-releases/releases/download/v1.5.1/melon-ticket-helper.crx",
+  "zipUrl": "https://github.com/kevinchone35/melon-ticket-helper-releases/releases/download/v1.5.1/melon-ticket-helper-1.5.1.zip",
+  "publishedAt": "2026-07-02"
 }
